@@ -1,8 +1,9 @@
 # React + Vite
 
-<h1> ChatGPT Clone </h1>
+<h1>  PokeGuide React  </h1>
 
-Bu proje, OpenAI tarafından geliştirilen ChatGPT'nin basit bir klonunu oluşturmak için HTML, CSS ve JavaScript kullanılarak geliştirilmiştir. Kullanıcılar, bu web sitesi üzerinden metin girişi yapabilir ve ChatGPT API'sini kullanarak yapay zeka tabanlı metin cevapları alabilirler.
+React: Kullanıcı arayüzü için kullanılmıştır.
+Vite: Hızlı geliştirme ve derleme için kullanılmıştır.
 
 
 
